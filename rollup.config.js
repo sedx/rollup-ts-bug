@@ -15,6 +15,7 @@ const PLUGINS = [
 export default {
   input: {
     A: "./lib/A/index.ts",
+    B: "./lib/B/index.ts",
   },
   plugins: PLUGINS,
   output: {
