@@ -1,0 +1,1 @@
+{"version":3,"file":"A.d.ts","sourceRoot":"","sources":["../lib/A/index.ts","../lib/A/models/someModel.ts","../lib/A/models/index.ts","../lib/A/views/SubView/SubView.tsx","../lib/A/views/SubView/index.ts","../lib/A/views/MainView/MainView.tsx","../lib/A/views/MainView/index.ts","../lib/A/views/index.ts"],"names":[],"mappings":";;;;;;AAGA,OAAO,eAAe,CAAC"}
